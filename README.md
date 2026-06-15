@@ -1,6 +1,6 @@
 # Hi, I'm Santiago Gutierrez 👋
 
-Systems Engineering student at Universidad del Cauca 🇨🇴, focused on backend development, software architecture, and systems programming. Interested in specializing in **AI/ML** and **cybersecurity**. Open to remote internships.
+Systems Engineering student at Universidad del Cauca 🇨🇴, focused on backend development, software architecture, and systems programming. Building toward a specialization in **AI/ML** and **cybersecurity**. Open to remote internships.
 
 ---
 
